@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gambar profesional.jpg" alt="Muhammad Aqil Harith" width="150" height="150" style="border-radius: 50%;">
+  <img src="gambar profesional.jpg" alt="Muhammad Aqil Harith" width="200" height="200" style="border-radius: 50%;">
 </p>
 
 
